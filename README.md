@@ -11,7 +11,7 @@ this is jfdklsj
 
 <code>
 '''
-jsfkljdl
+print("hi")
 '''
 </code>
 1. text 1
